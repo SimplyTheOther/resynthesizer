@@ -19,6 +19,7 @@ If you are a GIMP user who would like to download an installer for just the Resy
 * Plugin page: https://web.archive.org/web/20180225174428/http://registry.gimp.org/node/27986
 * Linux: https://github.com/pixlsus/registry.gimp.org_static/blob/master/registry.gimp.org/files/resynthesizer.tar_0.gz
 * Windows: https://github.com/pixlsus/registry.gimp.org_static/blob/master/registry.gimp.org/files/Resynthesizer_v1.0-i686.zip
+* OSX binary (not installer): https://github.com/SimplyTheOther/resynthesizer/releases/download/v2.0.3_osx/resynthesizer-v2-osx-x86-64.tar.gz
 
 If you want to install a package of third-party plugins (that includes Resynthesizer):
 
@@ -28,7 +29,7 @@ If you use OSX and want to install GIMP and a set of third-party plugins (includ
 
 * https://sourceforge.net/projects/gimponosx/
 
-Building this repository for Windows and OSX is not easy, and not documented here.
+Building this repository for Windows and OSX is not easy, and not documented here. There is a potentially incomplete tutorial for building on OSX available [here.](https://gist.github.com/ryan-robeson/5841f712ff23c910bbbfac793c16bfad)
 
 ## Acknowledgements
 
